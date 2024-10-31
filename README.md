@@ -1,3 +1,6 @@
+My attempt at making Unicode Legacy Computing font available in javascript regardless of browser support.
+
+
 # legacy computing font
 A font that covers the Unicode block Symbols for Legacy Computing.
 
