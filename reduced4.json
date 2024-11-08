@@ -1,0 +1,14 @@
+{
+  "numCols": 16,
+  "numRows": 16,
+  "paddingX1": 1,
+  "paddingY1": 3.4,
+  "paddingX2": 1.2,
+  "paddingY2": 3.8,
+  "offsetX": 28.9,
+  "offsetY": 38.6,
+  "charWidth": 11.5,
+  "charHeight": 16.5,
+  "zoom": 4,
+  "SogliaBW": 150
+}
